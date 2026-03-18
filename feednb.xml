@@ -1,63 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>  Custom Feed for Traffic</title>
+    <title>Newsbreak Custom Feed for Traffic</title>
+    <link>https://dacosta-original.github.io/feed/feednb.xml</link>
     <description>Curated article feed for distribution</description>
+    <atom:link href="https://dacosta-original.github.io/feed/feednb.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Top NFL Wide Receivers Ranked</title>
       <link>https://go.outsidepursuits.com/en/top-nfls-receivers-wide-ranked</link>
       <description>A breakdown of the best NFL wide receivers, ranked based on performance, stats, and impact on the game.</description>
-      <guid>top-nfls-receivers-wide-ranked</guid>
+      <guid>https://go.outsidepursuits.com/en/top-nfls-receivers-wide-ranked</guid>
     </item>
 
     <item>
       <title>Top NFL Records That Still Stand Today</title>
       <link>https://go.outsidepursuits.com/en/records-top-nfl-j76</link>
       <description>Exploring the most impressive and unbreakable records in NFL history that continue to define the sport.</description>
-      <guid>records-top-nfl-j76</guid>
+      <guid>https://go.outsidepursuits.com/en/records-top-nfl-j76</guid>
     </item>
 
     <item>
       <title>The Net Worth of Retiring NFL Players</title>
       <link>https://go.outsidepursuits.com/en/whose-net-retiring-players-werent</link>
       <description>A look at how retiring NFL players stack up financially after their careers, including surprising outcomes.</description>
-      <guid>whose-net-retiring-players-werent</guid>
+      <guid>https://go.outsidepursuits.com/en/whose-net-retiring-players-werent</guid>
     </item>
 
     <item>
       <title>Top NFL Quarterbacks Ranked</title>
       <link>https://go.outsidepursuits.com/en/ranked-football-quarterbacks-top-zjq</link>
       <description>Ranking the best quarterbacks in football based on skill, leadership, and game-changing ability.</description>
-      <guid>ranked-football-quarterbacks-top-zjq</guid>
+      <guid>https://go.outsidepursuits.com/en/ranked-football-quarterbacks-top-zjq</guid>
     </item>
 
     <item>
       <title>Most Talked-About Super Bowl Moments</title>
       <link>https://go.outsidepursuits.com/en/bowl-moments-talked-super-dqp</link>
       <description>A roundup of the most iconic and unforgettable Super Bowl moments that fans still talk about today.</description>
-      <guid>bowl-moments-talked-super-dqp</guid>
+      <guid>https://go.outsidepursuits.com/en/bowl-moments-talked-super-dqp</guid>
     </item>
 
     <item>
       <title>Rare Baseball Cards That Are Worth a Fortune</title>
       <link>https://go.outsidepursuits.com/en/baseball-rare-cards-zht</link>
       <description>A look at some of the rarest and most valuable baseball cards that collectors are still chasing today.</description>
-      <guid>baseball-rare-cards-zht</guid>
+      <guid>https://go.outsidepursuits.com/en/baseball-rare-cards-zht</guid>
     </item>
 
     <item>
       <title>The Greatest NBA Centers of All Time</title>
       <link>https://go.outsidepursuits.com/en/time-centers-top-nba-vzg</link>
       <description>Ranking the most dominant centers in NBA history based on skill, legacy, and overall impact.</description>
-      <guid>time-centers-top-nba-vzg</guid>
+      <guid>https://go.outsidepursuits.com/en/time-centers-top-nba-vzg</guid>
     </item>
 
     <item>
       <title>Most Memorable Moments in Sports History</title>
       <link>https://go.outsidepursuits.com/en/sports-memorable-big-things-hh5</link>
       <description>A collection of unforgettable sports moments that captured global attention and defined eras.</description>
-      <guid>sports-memorable-big-things-hh5</guid>
+      <guid>https://go.outsidepursuits.com/en/sports-memorable-big-things-hh5</guid>
     </item>
 
   </channel>
