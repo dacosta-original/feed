@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Newsbreak Custom Feed for Traffic</title>
     <link>https://dacosta-original.github.io/feed/feednb.xml</link>
@@ -11,6 +13,8 @@
       <link>https://go.outsidepursuits.com/en/top-nfls-receivers-wide-ranked</link>
       <description>A breakdown of the best NFL wide receivers, ranked based on performance, stats, and impact on the game.</description>
       <guid>https://go.outsidepursuits.com/en/top-nfls-receivers-wide-ranked</guid>
+      <enclosure url="https://posts-cdn.kueez.net/0O2qarG7WTeFPd8v/image-tmtaED6FoLDfvsvV.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/0O2qarG7WTeFPd8v/image-tmtaED6FoLDfvsvV.png" medium="image" type="image/png" />
     </item>
 
     <item>
@@ -18,6 +22,8 @@
       <link>https://go.outsidepursuits.com/en/records-top-nfl-j76</link>
       <description>Exploring the most impressive and unbreakable records in NFL history that continue to define the sport.</description>
       <guid>https://go.outsidepursuits.com/en/records-top-nfl-j76</guid>
+      <enclosure url="https://posts-cdn.kueez.net/lPf2SjgIkImTYbwY/image-n8YMzK9pPsWZ46An.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/lPf2SjgIkImTYbwY/image-n8YMzK9pPsWZ46An.png" medium="image" type="image/png" />
     </item>
 
     <item>
@@ -25,6 +31,8 @@
       <link>https://go.outsidepursuits.com/en/whose-net-retiring-players-werent</link>
       <description>A look at how retiring NFL players stack up financially after their careers, including surprising outcomes.</description>
       <guid>https://go.outsidepursuits.com/en/whose-net-retiring-players-werent</guid>
+      <enclosure url="https://posts-cdn.kueez.net/NKXDPTln6k4EDjpO/image-RycAJPmyRGD8tSfE.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/NKXDPTln6k4EDjpO/image-RycAJPmyRGD8tSfE.png" medium="image" type="image/png" />
     </item>
 
     <item>
@@ -32,6 +40,8 @@
       <link>https://go.outsidepursuits.com/en/ranked-football-quarterbacks-top-zjq</link>
       <description>Ranking the best quarterbacks in football based on skill, leadership, and game-changing ability.</description>
       <guid>https://go.outsidepursuits.com/en/ranked-football-quarterbacks-top-zjq</guid>
+      <enclosure url="https://posts-cdn.kueez.net/1ku1F5vVV3B1PZCc/image-61zQj0nxw90HFzyv.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/1ku1F5vVV3B1PZCc/image-61zQj0nxw90HFzyv.png" medium="image" type="image/png" />
     </item>
 
     <item>
@@ -39,6 +49,8 @@
       <link>https://go.outsidepursuits.com/en/bowl-moments-talked-super-dqp</link>
       <description>A roundup of the most iconic and unforgettable Super Bowl moments that fans still talk about today.</description>
       <guid>https://go.outsidepursuits.com/en/bowl-moments-talked-super-dqp</guid>
+      <enclosure url="https://posts-cdn.kueez.net/2FU7AcoEhjy6IUcW/image-joHIipJTCb8m9ybE.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/2FU7AcoEhjy6IUcW/image-joHIipJTCb8m9ybE.png" medium="image" type="image/png" />
     </item>
 
     <item>
@@ -46,6 +58,8 @@
       <link>https://go.outsidepursuits.com/en/baseball-rare-cards-zht</link>
       <description>A look at some of the rarest and most valuable baseball cards that collectors are still chasing today.</description>
       <guid>https://go.outsidepursuits.com/en/baseball-rare-cards-zht</guid>
+      <enclosure url="https://posts-cdn.kueez.net/BgV9iyxXtqfOjyIX/image-RzfZL6BXkVPLzgU6.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/BgV9iyxXtqfOjyIX/image-RzfZL6BXkVPLzgU6.png" medium="image" type="image/png" />
     </item>
 
     <item>
@@ -53,6 +67,8 @@
       <link>https://go.outsidepursuits.com/en/time-centers-top-nba-vzg</link>
       <description>Ranking the most dominant centers in NBA history based on skill, legacy, and overall impact.</description>
       <guid>https://go.outsidepursuits.com/en/time-centers-top-nba-vzg</guid>
+      <enclosure url="https://posts-cdn.kueez.net/xtRSAgJ5LmJWRcsa/image-xPSxpU4H6RduUr8V.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/xtRSAgJ5LmJWRcsa/image-xPSxpU4H6RduUr8V.png" medium="image" type="image/png" />
     </item>
 
     <item>
@@ -60,6 +76,8 @@
       <link>https://go.outsidepursuits.com/en/sports-memorable-big-things-hh5</link>
       <description>A collection of unforgettable sports moments that captured global attention and defined eras.</description>
       <guid>https://go.outsidepursuits.com/en/sports-memorable-big-things-hh5</guid>
+      <enclosure url="https://posts-cdn.kueez.net/jlmuiXAaCxtsujnd/image-u8uhqSVeXZwyNjDQ.png" type="image/png" />
+      <media:content url="https://posts-cdn.kueez.net/jlmuiXAaCxtsujnd/image-u8uhqSVeXZwyNjDQ.png" medium="image" type="image/png" />
     </item>
 
   </channel>
